@@ -3,7 +3,7 @@
 > A Pygame wrapper with boost and easy API  
 > by **SmuziCodeC (SmuziCodes, wuj1av)**
 
-![Made with Pygame](https://img.shields.io/badge/Made%20with-Pygame-red?logo=python)
+![Made with sdl2](https://img.shields.io/badge/Made%20with-sdl2-red?logo=cpp)
 
 ---
 
@@ -15,7 +15,7 @@
 - Open source (do whatever the hell you want)
 
 > Yes, you can pirate it.  
-> Yes, you can make wrapper with it for C++.  
+> Yes, you can make wrapper with it back for C++.  
 > I don’t care.
 
 ---
